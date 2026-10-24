@@ -28,15 +28,6 @@ This is the official companion code repository for **Roguelike Game Development 
 | 19 | Testing and Tuning a Procedural Game | [`ch19-testing-and-tuning-a-procedural-game/`](ch19-testing-and-tuning-a-procedural-game/) — 40 files |
 | 20 | Shipping Your Roguelike | [`ch20-shipping-your-roguelike/`](ch20-shipping-your-roguelike/) — 38 files |
 
-## The `engine/` package
-
-Several early chapters build up a small, reusable engine — classes shared across every later chapter's examples rather than redefined each time. This repo assembles those classes into a real, importable `engine/` package at the repo root (mirroring the project layout the book itself has you build), so `from engine.game_loop import GameLoop`-style imports in later chapters resolve exactly like they do if you followed along and built the same structure yourself. Run any example that imports from `engine/` from the repo root (or add the repo root to your `PYTHONPATH`) for the import to work:
-
-```bash
-cd roguelike-game-development-with-python-and-pygame-code
-python3 chNN-.../NN-example.py
-```
-
 ## Prerequisites
 
 - **Python** — Python 3.10+.
