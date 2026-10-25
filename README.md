@@ -8,7 +8,7 @@ This is the official companion code repository for **Roguelike Game Development 
 
 | Chapter | Title | Code |
 |---|---|---|
-| 2 | Setting Up Your Workshop | [`ch02-setting-up-your-workshop/`](ch02-setting-up-your-workshop/) — 1 file |
+| 2 | Setting Up Your Workshop | [`ch02-setting-up-your-workshop/`](ch02-setting-up-your-workshop/) — 2 files |
 | 3 | The Game Loop and the Grid | [`ch03-the-game-loop-and-the-grid/`](ch03-the-game-loop-and-the-grid/) — 9 files |
 | 4 | Maps, Tiles and Walls | [`ch04-maps-tiles-and-walls/`](ch04-maps-tiles-and-walls/) — 12 files |
 | 5 | Entities and Actions | [`ch05-entities-and-actions/`](ch05-entities-and-actions/) — 16 files |

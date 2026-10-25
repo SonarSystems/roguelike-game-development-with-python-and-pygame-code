@@ -44,3 +44,4 @@ class GameMap:
             for y in range(self.height):
                 tile = self.tiles[x][y]
                 glyphs.draw(surface, tile.glyph, x, y, tile.color, tile.background)
+
